@@ -1,7 +1,7 @@
 # Python-Practice-LPU
 A basic repository which contains all the Codes made by me for my Academic Practice and in-class Revision
 
-All programs done in the repo are listed here.
+<h6>All programs done in the repo are listed here.</h6>
 
 <body>
 <p>Practice 1 : Changing and Printing the Class of an given Integer/Variable</p>
