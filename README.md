@@ -5,4 +5,4 @@ All programs done in the repo are listed here.
 
 Practice 1 : Changing and Printing the Class of an given Integer/Variable
 Practice 2 : Program to add two given Numbers
-
+Practice 3 : Program to add 2 numbers inputted by the User
