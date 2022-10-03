@@ -8,5 +8,7 @@ A basic repository which contains all the Codes made by me for my Academic Pract
 <p>Practice 2 : Program to add two given Numbers</p>
 <p>Practice 3 : Program to add 2 numbers inputted by the User</p>
 <p>Practice 4 : Program to subtract 2 numbers inputted by the User</p>
-<p>Practice 5 : Program to Swap Function
+<p>Practice 5 : Program to Swap Function</p>
+<p>Practice 6 : Python Program to find the area of the Triangle</p>
+<p>Practice 7 : Python Program to Find the Square Root of a given number</p>
 </body>
