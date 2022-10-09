@@ -18,4 +18,6 @@ A basic repository which contains all the Codes made by me for my Academic Pract
 <p>Practice 12 : DSA Tutorial 1 (EASY)</p>
 <p>Practice 13 : Program for Attendance Criteria</p>
 <p>Practice 14 : Grading of Marks using ELIF Syntax in Code</p>
+<p>Practice 15 : Python program to take 3 inputs of age and find the oldest one from them</p>
+<p>Practice 16 : Python program to take 2 inputs and find the greatest number</p>
 </body>
