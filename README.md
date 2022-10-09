@@ -13,4 +13,6 @@ A basic repository which contains all the Codes made by me for my Academic Pract
 <p>Practice 7 : Python Program to Find the Square Root of a given number</p>
 <p>Practice 8 : Python Program to convert KM to Miles</p>
 <p>Practice 9 : Python Program to take input and convert KM TO MILES or MILES TO KM accordingly</p>
+<p>Practice 10 : Python Program with IF & ELSE statements</p>
+<p>Practice 11 : Python Program to find if given quadrilateral is a SQUARE</p>
 </body>
