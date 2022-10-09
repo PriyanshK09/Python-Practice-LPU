@@ -17,4 +17,5 @@ A basic repository which contains all the Codes made by me for my Academic Pract
 <p>Practice 11 : Python Program to find if given quadrilateral is a SQUARE</p>
 <p>Practice 12 : DSA Tutorial 1 (EASY)</p>
 <p>Practice 13 : Program for Attendance Criteria</p>
+<p>Practice 14 : Grading of Marks using ELIF Syntax in Code</p>
 </body>
