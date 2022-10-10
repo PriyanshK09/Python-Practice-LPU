@@ -21,4 +21,6 @@ A basic repository which contains all the Codes made by me for my Academic Pract
 <p>Practice 15 : Python program to take 3 inputs of age and find the oldest one from them</p>
 <p>Practice 16 : Python program to take 2 inputs and find the greatest number</p>
 <p>Practice 17 : Python program to fine a employes' company Bonus according to Tenure Calculation</p>
+<p>Practice 18 : Python program to find Company employee Bonus according to Tenure Calculation</p>
+<p>Practice 19 : Python Program for a Number Guessing Game
 </body>
