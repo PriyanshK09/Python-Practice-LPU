@@ -1,4 +1,4 @@
-#sorting the list means arrainging the number in ascending orders
+#list
 
 list = [8, 5, 13, 34, 55, 12, 9, 0, 55, 42, 99, 21, 38]
 # list.sort() : this sort list in ascending order
