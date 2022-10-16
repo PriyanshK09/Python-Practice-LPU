@@ -32,4 +32,7 @@ A basic repository which contains all the Codes made by me for my Academic Pract
 <p>Practice 25 : Vowel Checker using Strings/Arrays</p>
 <p>Practice 26 : Program will find whether the given number is Decimal Number or not</p>
 <p>Practice 27 : Python Program to do Concatination/Adding of 2 Strings</p>
+<p>Practice 28 : Take a user input of Name, Print the first and last letter of the name</p>
+<p>Practice 29 : Take a user Input, If length of that input is greater than 3 characters then prind "ing" prefix otherwise print as it is</p>
+<p>Practice 30 : Python Program for Placeholder Practice</p>
 </body>
