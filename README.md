@@ -31,4 +31,5 @@ A basic repository which contains all the Codes made by me for my Academic Pract
 <p>Practice 24 : Mini Calculator for Basic Operator Operations for Python</p>
 <p>Practice 25 : Vowel Checker using Strings/Arrays</p>
 <p>Practice 26 : Program will find whether the given number is Decimal Number or not</p>
+<p>Practice 27 : Python Program to do Concatination/Adding of 2 Strings</p>
 </body>
