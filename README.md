@@ -25,4 +25,6 @@ A basic repository which contains all the Codes made by me for my Academic Pract
 <p>Practice 19 : Python Program for a Number Guessing Game</p>
 <p>Practice 20 : List in Python</p>
 <p>Practice 21 : Dice Rolling in Python</p>
+<p>Practice 22 : Take User Input and check if it is divisible by both 2 & 3</p>
+<p>Practice 23 : User input for 3 sides of triangle and check if Triangle can be formed or not</p>
 </body>
