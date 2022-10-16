@@ -30,4 +30,5 @@ A basic repository which contains all the Codes made by me for my Academic Pract
 <p>Practice 23 : User input for 3 sides of triangle and check if Triangle can be formed or not</p>
 <p>Practice 24 : Mini Calculator for Basic Operator Operations for Python</p>
 <p>Practice 25 : Vowel Checker using Strings/Arrays</p>
+<p>Practice 26 : Program will find whether the given number is Decimal Number or not</p>
 </body>
