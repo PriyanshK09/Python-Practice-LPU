@@ -21,3 +21,6 @@ print(myTuple2)
 print(len(myTuple2)) # Length of the tuple
 
 print(myTuple[0]) # Indexing - first item in the tuple
+
+print(myTuple2[:2]) # Slicing - first 2 items in the tuple
+
