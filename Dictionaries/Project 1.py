@@ -11,3 +11,7 @@ print(len(myDictionary))
 
 #Printing the keys of the Dictionary
 print(myDictionary.keys())
+#Printing the values of the Dictionary
+print(myDictionary.values())
+#Printing the items of the Dictionary
+print(myDictionary.items())
