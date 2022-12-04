@@ -1,3 +1,6 @@
+from functools import reduce
+
+
 def isEven(num):
     if num % 2 == 0:
         print("Even")
@@ -7,8 +10,12 @@ def isEven(num):
 list1 = [1,2,3,4,5,6,7,8,9,10]
 output = list(map(isEven, list1))
 output1 = list(filter(isEven, list1))
+output2 = list(map(lambda x: x**(1/2), list1))
+output3 = reduce(lambda x,y: x+y, list1)
 print(output)
 print(output1)
+print(output2)
+print(output3)
 
 # List map is used to apply a function to each element of a list
 # List filter is used to filter out elements of a list based on a function
