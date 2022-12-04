@@ -15,3 +15,18 @@ print(myDictionary.keys())
 print(myDictionary.values())
 #Printing the items of the Dictionary
 print(myDictionary.items())
+#Changing the value of a key
+myDictionary["Name"]="John"
+print(myDictionary)
+
+
+#Printing the Keys and Values of the Dictionary seperately
+print("Keys of the given Dictionary: ", myDictionary.keys())
+print("Values of the given Dictionary: ", myDictionary.values())
+
+#Changing the value of a key using update
+myDictionary.update({"Name":"John"})
+print(myDictionary)
+#Poping a key from the dictionary
+a=myDictionary.pop("Name")
+print(a)
