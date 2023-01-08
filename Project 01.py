@@ -212,4 +212,22 @@ game.play_game()
 # 4 of Diamonds
 # 5 of Diamonds
 # 6 of Diamonds
-#
+# 7 of Diamonds
+# 8 of Diamonds
+# 9 of Diamonds
+# 10 of Diamonds
+# Played 1 of Diamonds
+# Player 4
+# 1 of Hearts
+# 2 of Hearts
+# 3 of Hearts
+# 4 of Hearts
+# 5 of Hearts
+# 6 of Hearts
+# 7 of Hearts
+# 8 of Hearts
+# 9 of Hearts
+# 10 of Hearts
+# Played 1 of Hearts
+# Getting trick winner
+# 1 of Spades is the winner
